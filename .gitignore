@@ -99,3 +99,7 @@ Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-umbrel
 Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.debug.xcconfig
 Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.modulemap
 Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.release.xcconfig
+Pods/Alamofire/Source/SessionManager.swift
+Pods/Alamofire/Source/TaskDelegate.swift
+Pods/Alamofire/Source/Timeline.swift
+Pods/Alamofire/Source/Validation.swift
