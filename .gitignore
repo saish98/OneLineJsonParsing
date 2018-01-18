@@ -65,3 +65,38 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+.DS_Store
+*.lock
+Pods/Alamofire/LICENSE
+Pods/Alamofire/README.md
+Pods/Alamofire/Source/AFError.swift
+Pods/Alamofire/Source/Alamofire.swift
+Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+Pods/Alamofire/Source/MultipartFormData.swift
+Pods/Alamofire/Source/NetworkReachabilityManager.swift
+Pods/Alamofire/Source/Notifications.swift
+Pods/Alamofire/Source/ParameterEncoding.swift
+Pods/Alamofire/Source/Request.swift
+Pods/Alamofire/Source/Response.swift
+Pods/Alamofire/Source/ResponseSerialization.swift
+Pods/Alamofire/Source/Result.swift
+Pods/Alamofire/Source/ServerTrustPolicy.swift
+Pods/Alamofire/Source/SessionDelegate.swift
+*.swift
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Pods/Target Support Files/Alamofire/Alamofire.xcconfig
+Pods/Target Support Files/Alamofire/Info.plist
+Pods/Target Support Files/Pods-OneLineJsonParsing/Info.plist
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-acknowledgements.markdown
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-acknowledgements.plist
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-dummy.m
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-frameworks.sh
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-resources.sh
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing-umbrella.h
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.debug.xcconfig
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.modulemap
+Pods/Target Support Files/Pods-OneLineJsonParsing/Pods-OneLineJsonParsing.release.xcconfig
