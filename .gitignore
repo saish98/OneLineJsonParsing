@@ -82,7 +82,6 @@ Pods/Alamofire/Source/ResponseSerialization.swift
 Pods/Alamofire/Source/Result.swift
 Pods/Alamofire/Source/ServerTrustPolicy.swift
 Pods/Alamofire/Source/SessionDelegate.swift
-*.swift
 Pods/Pods.xcodeproj/project.pbxproj
 Pods/Target Support Files/Alamofire/Alamofire-dummy.m
 Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
